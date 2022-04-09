@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.7710ba44.css",
+    "main.js": "/react-gh-pages/static/js/main.a3c66d9f.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-gh-pages/static/js/787.a2cb61a6.chunk.js",
+    "static/media/run-buddy-mock-up.jpg": "/react-gh-pages/static/media/run-buddy-mock-up.73dc196018c0ea4eaff1.jpg",
+    "static/media/watchopedia-mock-up.png": "/react-gh-pages/static/media/watchopedia-mock-up.57f2c6d99f409558183b.png",
+    "static/media/judy.jpg": "/react-gh-pages/static/media/judy.a55cc9c3c743e640bed7.jpg",
+    "static/media/human-machine.jpg": "/react-gh-pages/static/media/human-machine.4518f9e8e99af76e0447.jpg",
+    "static/media/placeholder.jpg": "/react-gh-pages/static/media/placeholder.d042dbd9ca056e6a64db.jpg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.7710ba44.css.map": "/react-gh-pages/static/css/main.7710ba44.css.map",
+    "main.a3c66d9f.js.map": "/react-gh-pages/static/js/main.a3c66d9f.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-gh-pages/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7710ba44.css",
+    "static/js/main.a3c66d9f.js"
+  ]
+}
