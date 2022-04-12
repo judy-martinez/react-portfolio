@@ -13,9 +13,7 @@ function App() {
       <div>
   <header>
     <h1>
-      <a href="/">
-        JUDY MARTINEZ
-      </a>
+      <a href="/">JUDY MARTINEZ</a>
     </h1>
     <nav>
       {/* Unordered list element*/}
@@ -50,7 +48,8 @@ function App() {
     <div className="about-me-info">
       <img src={judy} alt="Judy wearing a flower crown" />
       <p>My name is Judy Martinez. I was born and raised in Houston, TX.
-        I'm fluent in two languages (English and Spanish), and I'm currently learning programming languages. 
+        I'm fluent in two languages (English and Spanish), and I'm currently learning programming languages.
+        I'm fascinated by artificial intelligence and machine learning. 
         I have two dogs and I spend my free time reading, drawing and learning to code.
       </p>
     </div>
@@ -60,7 +59,7 @@ function App() {
     <h2 className="section-title secondary-border">My Professional Background</h2>
     <div>
       <h3>Google Contact Center AI Dialog Designer, TEKsystems</h3>
-      <p>Austin, TX | September 2021 - Present</p>
+      <p>Houston, TX | September 2021 - Present</p>
     </div>
     <div>
       <h3>Siri Annotation Analyst, Apple, Inc.</h3>
