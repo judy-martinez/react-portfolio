@@ -1,6 +1,6 @@
 import './App.css';
 
-import human_machine from './images/human-machine.jpg'
+import human_machine from './images/humanmachine.jpg'
 import judy from './images/judy.jpg'
 import placeholder from './images/placeholder.jpg'
 import run_buddy_mock_up from './images/run-buddy-mock-up.jpg'
