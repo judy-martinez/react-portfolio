@@ -15,6 +15,8 @@ My task was to create a portfolio using my new React skills. The application is 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Preview
+
 ## Available Scripts
 
 In the project directory, you can run:
