@@ -120,8 +120,8 @@ function App() {
         <h3>Express.js Note Taker</h3>
         <h4>Class Challenge</h4>
         <p>
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sequi neque animi quo cupiditate commodi saepe culpa sed
-          itaque velit maiores optio dolorem excepturi aperiam dolores, voluptatibus suscipit amet quis repellat!
+        This is an application that can be used to write and save notes. The application's front end was provided. 
+        It was my job to build the back end, connect them and deploy the application to Heroku.
         </p>
       </div>
     </article>  
