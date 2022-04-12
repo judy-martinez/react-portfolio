@@ -2,9 +2,9 @@ import './App.css';
 
 import human_machine from './images/human-machine.jpg'
 import judy from './images/judy.jpg'
-import placeholder from './images/placeholder.jpg'
 import run_buddy_mock_up from './images/run-buddy-mock-up.jpg'
 import watchopedia_mock_up from './images/watchopedia-mock-up.png'
+import notetaker from './images/notetaker.png'
 
 
 function App() {
@@ -114,7 +114,7 @@ function App() {
     {/* third project info */}
     <article className="project">
       <p><a href target="_blank">
-          <img src={placeholder} alt="placeholder for 3rd project" />
+          <img src={notetaker} alt="Note taker screenshot" />
         </a></p>
       <div className="project-info text-left">
         <h3>Express.js Note Taker</h3>
