@@ -117,8 +117,8 @@ function App() {
           <img src={placeholder} alt="placeholder for 3rd project" />
         </a></p>
       <div className="project-info text-left">
-        <h3>Another Future Project</h3>
-        <h4>Info</h4>
+        <h3>Express.js Note Taker</h3>
+        <h4>Class Challenge</h4>
         <p>
           Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sequi neque animi quo cupiditate commodi saepe culpa sed
           itaque velit maiores optio dolorem excepturi aperiam dolores, voluptatibus suscipit amet quis repellat!
