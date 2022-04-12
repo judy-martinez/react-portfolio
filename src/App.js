@@ -123,6 +123,8 @@ function App() {
         This is an application that can be used to write and save notes. The application's front end was provided. 
         It was my job to build the back end, connect them and deploy the application to Heroku.
         </p>
+        <br />
+        <br />You can view this project <a href="https://express-note-taker-project.herokuapp.com/notes" target="_blank">here.</a>
       </div>
     </article>  
   </section>
