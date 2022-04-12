@@ -11,11 +11,11 @@ My task was to create a portfolio using my new React skills. The application is 
 * UT Austin Coding Bootcamp - Module 20
 * Tutor J Carver
 
+## Preview
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Preview
 
 ## Available Scripts
 
