@@ -3,6 +3,10 @@
 ## Description
 My task was to create a portfolio using my new React skills. The application is deployed to GitHub Pages
 
+## Links
+* GitHub Repository: https://github.com/judy-martinez/react-portfolio
+* GitHub Pages: https://judy-martinez.github.io/react-portfolio/
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
