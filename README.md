@@ -12,6 +12,7 @@ My task was to create a portfolio using my new React skills. The application is 
 * Tutor J Carver
 
 ## Preview
+![image](https://user-images.githubusercontent.com/93234615/163117001-48f01f5a-6ec5-42e1-88c2-f6b4ed9456a8.png)
 
 ## Getting Started with Create React App
 
